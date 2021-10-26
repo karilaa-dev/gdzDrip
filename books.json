@@ -1,0 +1,89 @@
+{
+  "single": {
+    "algebra": [
+      "Алгебра",
+      "https://4book.org/uchebniki-ukraina/11-klass/algebra-11-klas-merzlyak-2019-pogl",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_a_m_2019_pogl.pdf"
+    ],
+    "geometria": [
+      "Геометрия",
+      "https://4book.org/uchebniki-ukraina/11-klass/geometriya-11-klas-merzlyak-2019-pogl",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_geom_m_2019_pogl.pdf"
+    ],
+    "ukrmova": [
+      "Укр.мова",
+      "https://4book.org/uchebniki-ukraina/11-klass/ukrayinska-mova-11-klas-avramenko-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_um_a_2019.pdf",
+	  "Укр.мова ГДЗ",
+	  "https://gdzonline.net/790-ukrmova-11-klas-avramenko.html"
+    ],
+    "ukrlit": [
+      "Укр.лит",
+      "https://4book.org/uchebniki-ukraina/11-klass/ukrayinska-literatura-11-klas-avramenko-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_ul_a_2019.pdf"
+    ],
+    "fizika": [
+      "Физика",
+      "https://4book.org/uchebniki-ukraina/11-klass/fizika-11-klas-baryahtar-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_f_b_2019.pdf"
+    ],
+    "himia": [
+      "Химия",
+      "https://4book.org/uchebniki-ukraina/11-klass/himiya-11-klas-yaroshenko-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_h_y_2019.pdf",
+	  "Химия ГДЗ",
+	  "http://8next.com/11h_ya_vu2019.html"
+    ],
+    "geografia": [
+      "География",
+      "https://4book.org/uchebniki-ukraina/11-klass/geografiya-11-klas-kobernik-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_geog_k_2019.pdf"
+    ],
+    "zarlit": [
+      "Зар.лит",
+      "https://4book.org/uchebniki-ukraina/11-klass/zarubizhna-literatura-11-klas-kovbasenko-2019-stand",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_zl_kov_2019_stand.pdf"
+    ],
+    "ukristor": [
+      "История Украины",
+      "https://4book.org/uchebniki-ukraina/11-klass/istoriya-ukrayini-11-klas-vlasov-2019-stand",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_iu_v_2019_stand.pdf"
+    ],
+    "worldistor": [
+      "Мировая История",
+      "https://4book.org/uchebniki-ukraina/11-klass/vsesvitnya-istoriya-11-klas-ladichenko-2019-stand",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_vi_l_2019_stand.pdf"
+    ],
+    "astronomia": [
+      "Астрономия",
+      "https://4book.org/uchebniki-ukraina/11-klass/astronomiya-11-klas-prishlyak-2019",
+      "http://file.4book.org/images/shcoolbook_ua/11/11_as_pr_2019.pdf"
+    ]
+  },
+  "multi": {
+    "biologia": {
+      "sobol": [
+        "Биология Соболь",
+		"https://4book.org/uchebniki-ukraina/11-klass/biologiya-i-ekologiya-11-klas-sobol-2019",
+        "http://file.4book.org/images/shcoolbook_ua/11/11_b_s_2019.pdf"
+      ],
+      "anderson": [
+		"Биология Андерсон",
+        "https://4book.org/uchebniki-ukraina/11-klass/biologiya-i-ekologiya-11-klas-anderson-2019",
+        "http://file.4book.org/images/shcoolbook_ua/11/11_b_a_2019.pdf"
+      ]
+    },
+    "zahist": {
+      "boy": [
+		"Захист В. Хлопці",
+        "https://4book.org/uchebniki-ukraina/11-klass/zahist-vitchizni-11-klas-gudima-2019-hlopci",
+        "http://file.4book.org/images/shcoolbook_ua/11/11_zv_gud_2019_khlopci.pdf"
+      ],
+      "girl": [
+        "Захист В. Дівчата",
+		"https://4book.org/uchebniki-ukraina/11-klass/zahist-vitchizni-11-klas-gudima-2019-divchata",
+        "http://file.4book.org/images/shcoolbook_ua/11/11_zv_gud_2019_divchata.pdf"
+      ]
+    }
+  }
+}
